@@ -1,0 +1,9 @@
+.env
+*.env
+.htpasswd
+*passwd*
+*.key
+*.pem
+*.crt
+__pycache__/
+*.pyc
